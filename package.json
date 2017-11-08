@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-concrete-react",
+  "version": "1.0.0",
+  "description": "Extending Airbnb's extensible shared config for React projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '[ Info ] No testing required' && exit 0"
+  },
+  "repository": "https://github.com/concrete-cc/eslint-config-concrete-react.git",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "concrete-cc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concrete-cc/eslint-config-concrete-react/issues"
+  },
+  "homepage": "https://github.com/concrete-cc/eslint-config-concrete-react#readme",
+  "dependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}
